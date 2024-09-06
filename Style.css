@@ -1,0 +1,38 @@
+/*Agregamos estilos al body*/
+body{
+    background-color: #badfa4;
+}
+p{
+    text-align: justify;
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 4px dotted #0a3a07;
+}
+/*Agregar width y height*/
+img {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: center;
+}
+
+/*Cambiar tamaño de cada img con class*/
+#Loro{
+    width: 300px;
+    height: 350px;
+
+/*Agregar borde*/
+border-style: dashed;
+border-color: rgb(51, 100, 155);
+}
+
+div {
+   background-color: #fbff73;
+}
+
+/*Agregar atributo id se manda a llamar con un #*/
+#Parrafo-1{
+    background-color: #697700;
+}
+
